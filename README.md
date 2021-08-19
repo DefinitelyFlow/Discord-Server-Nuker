@@ -15,7 +15,7 @@ Supports Windows, Linux, Mac, [Android](https://github.com/DeadBread76/Raid-Tool
 
 ### Need any help?
 
-Check out the [Wiki](https://github.com/DeadBread76/Raid-Toolbox/wiki) and our [Telegram group](https://github.com/DefinitelyFlow)
+Check out the [Wiki](https://github.com/DefinitelyFlow/Discord-Server-Nuker/wiki) and our [Telegram group](https://github.com/DefinitelyFlow)
 
 ### Screenshots:
 
