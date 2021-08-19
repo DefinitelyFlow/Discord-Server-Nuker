@@ -1,0 +1,9 @@
+Collecting pluginbase
+  Downloading pluginbase-1.0.1.tar.gz (43 kB)
+Using legacy 'setup.py install' for pluginbase, since package 'wheel' is not installed.
+Installing collected packages: pluginbase
+    Running setup.py install for pluginbase: started
+    Running setup.py install for pluginbase: finished with status 'done'
+Successfully installed pluginbase-1.0.1
+WARNING: You are using pip version 21.1.3; however, version 21.2.4 is available.
+You should consider upgrading via the 'C:\Users\saleban\AppData\Local\Programs\Python\Python39\pythonw.exe -m pip install --upgrade pip' command.
