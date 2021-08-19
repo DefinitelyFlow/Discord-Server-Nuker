@@ -15,7 +15,7 @@ Supports Windows, Linux, Mac, [Android](https://github.com/DeadBread76/Raid-Tool
 
 ### Need any help?
 
-Check out the [Wiki](https://github.com/DeadBread76/Raid-Toolbox/wiki) and our [Telegram group](https://t.me/DeadBakery)
+Check out the [Wiki](https://github.com/DeadBread76/Raid-Toolbox/wiki) and our [Telegram group](https://github.com/DefinitelyFlow)
 
 ### Screenshots:
 
